@@ -84,7 +84,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
     return (
       <Container>
         <Left>
-          <Logo>LAMA.</Logo>
+          <Logo>WEAR IT>.</Logo>
           <Desc>
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
@@ -123,13 +123,13 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <LocationOnIcon style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
+            <LocationOnIcon style={{marginRight:"10px"}}/> Gitam University, Visakhapatnam
           </ContactItem>
           <ContactItem>
             <PhoneIcon style={{marginRight:"10px"}}/> +1 234 56 78
           </ContactItem>
           <ContactItem>
-            <MailOutlinedIcon style={{marginRight:"10px"}} /> contact@lama.dev
+            <MailOutlinedIcon style={{marginRight:"10px"}} /> karthik.patnaikuni@gmail.com
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>
