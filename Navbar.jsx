@@ -64,7 +64,7 @@ const Navbar = () => {
                     
                 </Left>
 
-                <Center><Logo>LAMA.</Logo></Center>
+                <Center><Logo>WEAR IT.</Logo></Center>
                 <Right>
                     <MenuItem>SIGN IN</MenuItem>
                     <MenuItem>REGISTER</MenuItem>
